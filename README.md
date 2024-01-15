@@ -1,10 +1,16 @@
 <h1 align="center">Hello World! 👋, I'm Vaishnavi Thakre</h1>
 <h3 align="center">A passionate learner who's always willing to learn and work across technologies and domains. </h3>
-- 🔭 I’m currently working on **Full stack development, DSA & Data Analysis**
-- 👯 I’m looking for opportunities and collaboration related to **Full Stack Development & Data Analysis**
-- 🌱 I’m currently learning **Spring, Tableau, Power BI, Flutter**
-- 💬 Ask me about **Java, Pandas, Data analysis**
-- 📫 How to reach me **vpthakre17@gmail.com**
+<br>
+- 🔭 I’m currently working on Full stack development, DSA & Data Analysis
+<br>
+- 👯 I’m looking for opportunities and collaboration related to Full Stack Development & Data Analysis
+<br>
+- 🌱 I’m currently learning Spring, Tableau, Power BI, Flutter
+<br>
+- 💬 Ask me about Java, Pandas, Data analysis
+<br>
+- 📫 How to reach me vpthakre17@gmail.com
+
 
 <div> <a href="https://github.com/VaishnaviThakre" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:vpthakre17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
